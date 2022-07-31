@@ -17,31 +17,31 @@ function makeMusic(key){
 
     switch (key) {
         case "w":
-            var audio= new Audio("C:/Users/USER/Desktop/Drum-kit/tom-1.mp3");
+            var audio= new Audio("tom-1.mp3");
     audio.play();
             break;
             case "a":
-             var audio =new Audio("C:/Users/USER/Desktop/Drum-kit/crash.mp3");
+             var audio =new Audio("crash.mp3");
              audio.play();
              break;
              case "s":
-              var audio =new Audio("C:/Users/USER/Desktop/Drum-kit/tom-1.mp3");
+              var audio =new Audio("tom-1.mp3");
               audio.play();
               break;
               case "d":
-               var audio =new Audio(" C:/Users/USER/Desktop/Drum-kit/crash.mp3");
+               var audio =new Audio(" crash.mp3");
                audio.play();
                break;
                case "j":
-                var audio =new Audio("  C:/Users/USER/Desktop/Drum-kit/tom-2.mp3");
+                var audio =new Audio("  tom-2.mp3");
                 audio.play();
                 break;
                 case "k":
-                 var audio =new Audio("   C:/Users/USER/Desktop/Drum-kit/kick-bass.mp3");
+                 var audio =new Audio(" kick-bass.mp3");
                  audio.play();
                  break;
                  case "p":
-                  var audio =new Audio("  C:/Users/USER/Desktop/Drum-kit/tom-4.mp3");
+                  var audio =new Audio(" tom-4.mp3");
                   audio.play();
                   break;
     
