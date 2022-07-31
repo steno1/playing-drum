@@ -3,10 +3,17 @@ body {
   text-align: center;
   background-color: #B2A4FF;
 }
-/*h1*/
+/*h1, h2*/
 
 h1 {
   font-size: 5rem;
+  color: white;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+h2 {
+  font-size: 3rem;
   color: white;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
