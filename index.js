@@ -37,7 +37,7 @@ function makeMusic(key){
                 audio.play();
                 break;
                 case "k":
-                 var audio =new Audio(" kick-bass.mp3");
+                 var audio =new Audio(" https://github.com/steno1/playing-drum/blob/main/kick-bass.mp3");
                  audio.play();
                  break;
                  case "p":
