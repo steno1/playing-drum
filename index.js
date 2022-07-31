@@ -60,3 +60,8 @@ function aniMation(currentKey){
 
 
 }
+//keydown//
+$(".drum").keydown(function (e) { 
+    $("h2").text(e.key);
+    
+});
