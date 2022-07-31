@@ -79,7 +79,7 @@ h1 {
 footer {
   color: #DBEDF3;
   font-family: sans-serif;
-  font-size:3%;
+  
 }
 
 @media(max-width:500px){
@@ -96,7 +96,7 @@ h1{
 footer{
   color:black;
   opacity: 0.8;
-  font-size: small;
+  font-size: bolder;
 }
 
 
