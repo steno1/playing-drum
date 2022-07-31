@@ -81,8 +81,8 @@ footer {
   font-family: sans-serif;
   
 }
-
-@media(max-width:500px){
+/* media query for responsiveness */
+@media (max-width:500px){
 .drum{
   font-size: 3rem;
   width: 80px;
