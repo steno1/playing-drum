@@ -14,11 +14,8 @@ h1 {
 }
 h2 {
   font-size: 3rem;
-  color: white;
-  font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #DA0463;
-
-}
+  color: #FCE2DB;
+  }
 /*bootstrap */
 .container-fluid{
   margin:5% auto;
