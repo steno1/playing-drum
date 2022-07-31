@@ -47,32 +47,32 @@ h1 {
   background-color: white;
 }
 .w {
-  background-image: url(" C:/Users/USER/Desktop/Drum-kit/tom1.png ");
+  background-image: url(" tom1.png ");
 
 }
 
 .a {
-  background-image: url(" C:/Users/USER/Desktop/Drum-kit/kick.png");
+  background-image: url(" kick.png");
 }
 
 .s {
-  background-image: url("C:/Users/USER/Desktop/Drum-kit/tom3.png");
+  background-image: url("tom3.png");
 }
 
 .d {
-  background-image: url("  C:/Users/USER/Desktop/Drum-kit/crash.png");
+  background-image: url(" crash.png");
 }
 
 .j {
-  background-image: url("C:/Users/USER/Desktop/Drum-kit/tom2.png ");
+  background-image: url("tom2.png ");
 }
 
 .k {
-  background-image: url(" C:/Users/USER/Desktop/Drum-kit/snare.png ");
+  background-image: url(" snare.png ");
 }
 
 .p {
-  background-image: url(" C:/Users/USER/Desktop/Drum-kit/tom4.png");
+  background-image: url(" tom4.png");
 
 }
 /*footer */
